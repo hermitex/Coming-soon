@@ -54,7 +54,11 @@ body {
     font-size: 30px;
     flex-direction: column;
   }
-  /* #countdown div {
+  #countdown div {
     border: none;
-  } */
+    background: none;
+  }
+  .inner {
+    height: 100vh;
+  }
 }
