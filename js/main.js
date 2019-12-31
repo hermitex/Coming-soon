@@ -3,7 +3,7 @@ const countDown = document.getElementById("countdown");
 
 
 //time to count down to
-const lauchTime = new Date("Jan 1, 2020 13:00:00").getTime();
+const lauchTime = new Date("Jan 1, 2020 23:00:00").getTime();
 
 
 
@@ -20,7 +20,7 @@ const showCountDown = setInterval(() => {
 	//console.log(hours);
 	const mins = Math.floor((timeLength % (1000 * 60 * 60)) / (1000 * 60));
 	const secs = Math.floor((timeLength % (1000 * 60)) / 1000);
-	console.log(secs);
+	// console.log(secs);
 	countDown.innerHTML = `
 	<div>${days}<span>Days</span></div>
 	<div>${hours}<span>Hours</span></div>
