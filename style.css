@@ -57,6 +57,7 @@ body {
   #countdown div {
     border: none;
     background: none;
+    margin: 8px;
   }
   .inner {
     height: 100vh;
