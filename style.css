@@ -57,9 +57,4 @@ body {
   /* #countdown div {
     border: none;
   } */
-  #countdown div {
-    display: block;
-    width: 805;
-    padding: 10px;
-  }
 }
