@@ -9,7 +9,7 @@ body{
 	color: #fff;
 }
 .container{	
-	background-image: url(/img/adventure.jpg);
+	background-image: url(adventure.jpg);
 	background-size: cover;	
 	height: 100vh;
 	position: relative;
