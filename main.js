@@ -3,7 +3,7 @@ const countDown = document.getElementById("countdown");
 
 
 //time to count down to
-const lauchTime = new Date("Dec 25, 2019 13:00:00").getTime();
+const lauchTime = new Date("Jan 1, 2020 13:00:00").getTime();
 
 
 
