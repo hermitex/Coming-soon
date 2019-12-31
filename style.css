@@ -57,7 +57,7 @@ body {
   /* #countdown div {
     border: none;
   } */
-  #countdown div:first-child {
+  #countdown div {
     display: block;
     width: 805;
     padding: 10px;
